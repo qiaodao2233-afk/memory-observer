@@ -1,7 +1,0 @@
-interface:
-  display_name: "Memory Observer"
-  short_description: "Daily memory, RedNote notes, summaries, reminders."
-  default_prompt: "Use $memory-observer to introduce what it can do and ask the user to name it."
-
-policy:
-  allow_implicit_invocation: true
